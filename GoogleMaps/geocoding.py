@@ -98,7 +98,7 @@ class Geocoder:
 # Initialize geocoder class
 # geocoder = Geocoder()
 
-g_maps = googlemaps.Client(key='AIzaSyAitgFXGcX1HF3SaT-enAdljLV2jkf4lF8')
+g_maps = googlemaps.Client(key='')
 
 # Create function that produces coordinate
 def get_coordinate(address):
